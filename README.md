@@ -15,14 +15,11 @@ UIKit 코드 베이스 기반 프로젝트를 생성할 때마다 반복되는 �
 
 **1. Clone or Download**
 
-```shell
-git clone https://github.com/youn9k/UIKit-CodeBased-Template-Project.git
-cd uikit-codebase-template
+`git clone https://github.com/youn9k/UIKit-CodeBased-Template-Project.git`
 
-or 
+OR
 
-Download Zip
-```
+Download https://github.com/youn9k/UIKit-CodeBased-Template-Project/archive/refs/heads/main.zip
 
 **2. Rename to Your Project Name**
 
